@@ -198,6 +198,7 @@ const Contact = () => {
         />
       </Wrapper>
     </Container>
+   
   );
 };
 
